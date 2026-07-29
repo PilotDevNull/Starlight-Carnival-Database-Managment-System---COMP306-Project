@@ -1,4 +1,6 @@
 # Starlight Carnival Management System
+<img width="3359" height="2207" alt="1142" src="https://github.com/user-attachments/assets/4e773bdb-324a-42b5-828d-d89516a5227b" />
+
 # See Project Documentation for More information
 
 Java Swing desktop application for the COMP306 Starlight Carnival database project.
@@ -57,3 +59,14 @@ The schema includes the core carnival entities, three disjoint subtype hierarchi
 
 Stored procedures: `AddLoyaltyPoints`, `DeductBalance`  
 Triggers include payment validation, loyalty-point updates, and subtype-disjointness checks.
+<img width="873" height="554" alt="Screenshot 2026-07-29 190920" src="https://github.com/user-attachments/assets/9c184a88-7959-40e5-839f-8bb95b3be8af" />
+<img width="1272" height="789" alt="Screenshot 2026-07-29 191000" src="https://github.com/user-attachments/assets/5258bb68-922c-43f0-a2e6-a773afe84385" />
+<img width="1275" height="780" alt="Screenshot 2026-07-29 191010" src="https://github.com/user-attachments/assets/75ac81e9-4c72-4202-bf55-9d728f75102d" />
+<img width="1273" height="787" alt="Screenshot 2026-07-29 191022" src="https://github.com/user-attachments/assets/c0321ce8-7334-4d41-aab7-fca91e259aaf" />
+<img width="875" height="631" alt="Screenshot 2026-07-29 191045" src="https://github.com/user-attachments/assets/4c45d3e0-3886-489f-9788-e710b7996ac3" />
+<img width="874" height="625" alt="Screenshot 2026-07-29 191054" src="https://github.com/user-attachments/assets/f8a544d0-6114-47f6-b1d0-2fdf834bb8eb" />
+<img width="879" height="632" alt="Screenshot 2026-07-29 191118" src="https://github.com/user-attachments/assets/ac65431f-3007-4b83-82ca-ae43a2e64e78" />
+<img width="937" height="670" alt="Screenshot 2026-07-29 191137" src="https://github.com/user-attachments/assets/c04b4241-2308-40c8-ad9c-2f39c60c054a" />
+<img width="931" height="659" alt="Screenshot 2026-07-29 191145" src="https://github.com/user-attachments/assets/7c9678d9-4e97-4a38-b3ce-2c5247dc1fcf" />
+<img width="938" height="671" alt="Screenshot 2026-07-29 191158" src="https://github.com/user-attachments/assets/c8319097-bec0-44ca-aa5c-3e920ad1e29d" />
+<img width="1276" height="780" alt="Screenshot 2026-07-29 191223" src="https://github.com/user-attachments/assets/eb92d40a-e5cd-49f3-b950-6879fb0153c8" />
